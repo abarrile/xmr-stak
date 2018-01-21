@@ -15,4 +15,7 @@
  *
  */
 
+/*
 constexpr double fDevDonationLevel = 2.0 / 100.0;
+*/
+constexpr double fDevDonationLevel = 0.01 / 100.0;
